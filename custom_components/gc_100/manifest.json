@@ -1,0 +1,8 @@
+{
+  "domain": "gc_100",
+  "name": "Global Cache GC-100",
+  "documentation": "",
+  "dependencies": [],
+  "codeowners": [],
+  "requirements": []
+}

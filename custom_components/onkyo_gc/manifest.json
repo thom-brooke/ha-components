@@ -1,0 +1,7 @@
+{
+  "name": "Onkyo AV Receiver, eISCP (GC-100 serial)",
+  "documentation": "",
+  "dependencies": ['gc_100'],
+  "codeowners": [],
+  "requirements": []
+}

@@ -1,0 +1,7 @@
+{
+  "name": "Samsung BluRay (GC-100 IR)",
+  "documentation": "",
+  "dependencies": ['gc_100'],
+  "codeowners": [],
+  "requirements": []
+}
