@@ -1,0 +1,7 @@
+{
+  "name": "Sony 4k UHD BluRay (GC-100 IR)",
+  "documentation": "",
+  "dependencies": ['gc_100'],
+  "codeowners": [],
+  "requirements": []
+}
